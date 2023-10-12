@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Frontend: **React.js / Next.js**
+- 🌱 Backend: **Nest.js / Node.js**
 
 - 📫 How to reach me **ouzhan.ysl@gmail.com**
 
